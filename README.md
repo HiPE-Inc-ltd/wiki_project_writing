@@ -35,23 +35,26 @@ ex.
 
 #### EXAMPLES:
 
-__before:__ 
+__Before:__ 
 
 :pushpin: __PRIORITY__ :
 
 __NEED REMOVE :wastebasket:__
 > __OUR MEMBER__ :: delete this section
 
-__after:__
+__After:__
 
 :pushpin: __PRIORITY__ :
 
 __NEED REMOVE :wastebasket:__
 > __OUR MEMBER__ :: delete this section :: :heavy_check_mark:
 
+---
+
 *NOTE: if section of the request are complete then put status :heavy_check_mark: on ACTUAL REQUEST HEADING  
 
-ex. 
+ex.
+
 __NEED REMOVE :wastebasket:__ :heavy_check_mark: <=== overall status
 
 > __OUR MEMBER__ :: delete this section :: :heavy_check_mark: <=== finish
@@ -61,17 +64,23 @@ __NEED REMOVE :wastebasket:__ :heavy_check_mark: <=== overall status
 *NOTE: if section of the request are incomplete then put status :construction: on ACTUAL REQUEST HEADING  
 
 ex. 
+
 __NEED REMOVE :wastebasket:__ :construction: <=== overall status
 
 > __OUR MEMBER__ :: delete this section :: :heavy_check_mark: <=== finish
 
 > __ABOUT US__ :: delete this section :: :construction: <=== not finish
 
+---
+
 *NOTE: if all section are done add status to the REQUEST HEADING
+
+ex. 
 
 :pushpin: __PRIORITY__ : :heavy_check_mark:
 
 __NEED REMOVE :wastebasket:__ :heavy_check_mark:
 > __OUR MEMBER__ :: delete this section :: :heavy_check_mark:
 
+---
 
