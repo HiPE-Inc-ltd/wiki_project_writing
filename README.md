@@ -1,4 +1,10 @@
 # wiki_project_writing
+# REFERENCE LINK
+
+|      CHEATSHEET   |          LINK  |  
+| ------------- |:-------------:| 
+| EMOJI      | https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#mail |
+| MARKDOWN      | https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet      |
 
 ### HEADING OF THE REQUEST
 Always put priority above all the request. 
