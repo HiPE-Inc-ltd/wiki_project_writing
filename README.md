@@ -7,11 +7,26 @@ ex.
 * :paperclip: __REMINDER__ :
 * :round_pushpin: __OPTIONAL__ :
 
+code block
+```
+:pushpin: __PRIORITY__ : 
+:paperclip: __REMINDER__ :
+:round_pushpin: __OPTIONAL__ :
+
+```
+
 ### ACTUAL REQUEST
 ex. if request need fixing
 
 __NEED FIXING :hammer_and_wrench:__
 > __object__ :: your request here
+
+code block
+```
+__NEED FIXING :hammer_and_wrench:__
+> __object__ :: your request here
+
+```
 
 ex. if request need fixing
 
@@ -32,6 +47,18 @@ ex.
 * __PARTIAL FIX__
   + :construction:
 
+code block
+```
+FIX: 
+:heavy_check_mark:
+
+NOT FIX:
+:x:
+
+PARTIAL FIX:
+:construction:
+
+```
 
 #### EXAMPLES:
 
