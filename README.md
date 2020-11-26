@@ -22,6 +22,18 @@ code block
 ```
 
 ### ACTUAL REQUEST
+ex. if request need adding
+
+__ADD :heavy_plus_sign:__
+> __object__ :: your request here
+
+code block
+```
+__ADD :heavy_plus_sign:__
+> __object__ :: your request here
+
+```
+
 ex. if request need fixing
 
 __NEED FIXING :hammer_and_wrench:__
@@ -39,10 +51,25 @@ ex. if request need fixing
 __NEED CHANGE :scissors:__
 > __object__ :: your request here
 
+code block
+```
+__NEED CHANGE :scissors:__
+> __object__ :: your request here
+
+```
+
 ex. if request need removing
 
 __NEED REMOVE :wastebasket:__
 > __object__ :: your request here
+
+code block
+```
+__NEED REMOVE :wastebasket:__
+> __object__ :: your request here
+
+```
+
 
 ### STATUS OF THE REQUEST
 ex.
